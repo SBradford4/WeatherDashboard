@@ -1,3 +1,12 @@
+Github
+https://github.com/SBradford4/WeatherDashboard
+
+Live App
+![image](https://github.com/user-attachments/assets/3bc7001b-968b-43c5-b8ee-0e500926c0ce)
+
+live link
+https://vscode.dev/github/SBradford4/WeatherDashboard/blob/main
+
 # 09 Servers and APIs: Weather Dashboard
 
 ## Your Task
